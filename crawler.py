@@ -232,4 +232,4 @@ if __name__ == '__main__':
 
     # attention grader: change the input of this method to test any of the examples above
 
-    generate_report_for_ticker('0000102909', 'output/asdf.tsv')
+    generate_report_for_ticker('0000102909', 'i_didnt_edit_the_invocation.tsv')
