@@ -4,6 +4,10 @@ Write code in Python that parses fund holdings pulled from EDGAR, given a ticker
 
 This program generates tab-delimited text (with a header row) from the latest 13F filing.
 
+## Requirements
+
+- Python 3 (developed with Python 3.5+)
+
 ## Setup
 
 ```sh
